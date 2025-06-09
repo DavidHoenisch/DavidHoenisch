@@ -10,6 +10,6 @@ I'm a Cloud Security Engineer passionate about demonostrably trustworthy and res
 
 📫 Get in Touch
 
-Email: dh1689@pm.me
-LinkedIn: linkedin.com/in/davidhoenisch
-Twitter/X: @DavidHoenisch
+- Email: dh1689@pm.me
+- LinkedIn: linkedin.com/in/david-hoenisch
+- Twitter/X: @DavidHoenisch
