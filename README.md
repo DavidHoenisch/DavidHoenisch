@@ -1,6 +1,15 @@
-<h1 align="center">I'm David Hoenisch</h1>
-<h3 align="center">cloud security engineer</h3>
+👋 Hey, I'm David Hoenisch!
+I'm a Cloud Security Engineer passionate about demonostrably trustworthy and resilient systems in the cloud 🚀
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidhoenisch&label=Profile%20views&color=0e75b6&style=flat" alt="davidhoenisch" /> </p>
+🌟 What I'm Working On
 
-- 📫 How to reach me **dh1689@pm.me**
+- [wazctl](https://github.com/EpykLab/wazctl)
+- [chx](https://github.com/EpykLab/chx)
+- [cloak](https://github.com/DavidHoenisch/cloak)
+- [secdoc](https://github.com/EpykLab/secdoc)
+
+📫 Get in Touch
+
+Email: dh1689@pm.me
+LinkedIn: linkedin.com/in/davidhoenisch
+Twitter/X: @DavidHoenisch
